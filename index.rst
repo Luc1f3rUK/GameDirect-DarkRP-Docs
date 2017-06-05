@@ -11,7 +11,7 @@ This site will help you learn all there is to know about our DarkRP universe.
 
    jobs/index
 
-+--+--+  
++----------+--------+  
 | Header   | Test   |
 +==========+========+
 | Body 1   | Body 2 |
