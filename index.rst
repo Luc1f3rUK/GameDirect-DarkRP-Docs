@@ -1,4 +1,4 @@
-# GameDirectDarkRP
+.. GameDirectDarkRP
 
 Welcome to the GameDirect DarkRP Wiki!
 
